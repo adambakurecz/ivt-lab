@@ -81,7 +81,6 @@ public class GT4500 implements SpaceShip {
         //TODO implement feature
         
         return true;
-        break;
     }
 
     return firingSuccess;
